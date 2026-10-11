@@ -1,0 +1,3 @@
+Copyright (c) 2026 M. R. Hoque
+
+Permission is granted to use, copy, modify and redistribute tone_gap_example.py with this notice and attribution. The example is provided as is, without warranty. This permission applies only to the public teaching example, not the private production application, research data, or third-party dictionaries.
